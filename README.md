@@ -31,4 +31,6 @@ reboot
 wget -N --no-check-certificate "https://raw.githubusercontent.com/chiakge/Linux-NetSpeed/master/tcp.sh"
 chmod +x tcp.sh
 ./tcp.sh
-# 甬哥xui证书路径
+
+
+## 甬哥xui的证书
