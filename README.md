@@ -1,6 +1,7 @@
 ## X-UI修改版，优化新老系统支持，自动提示更新脚本，集成warp脚本，一键ACME证书申请
 # 获取root权限
-```sudo -i
+```
+sudo -i
 ```
 # 更新及安装组件
 - Debian/Ubuntu 命令
