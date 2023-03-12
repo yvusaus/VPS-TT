@@ -41,3 +41,5 @@ chmod +x tcp.sh
 ```
 /root/ygkkkca/private.key
 ```
+
+好了
