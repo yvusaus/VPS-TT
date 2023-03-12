@@ -26,6 +26,14 @@ yum install -y curl socat
 ```
 reboot
 ```
+# 开启bbr加速
+```
+wget -N --no-check-certificate "https://raw.githubusercontent.com/chiakge/Linux-NetSpeed/master/tcp.sh"
+
+chmod +x tcp.sh
+
+./tcp.sh
+```
 # 安装修改版X-UI
 ```
 wget -N https://gitlab.com/rwkgyg/x-ui-yg/raw/main/install.sh && bash install.sh
