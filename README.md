@@ -33,13 +33,3 @@ chmod +x tcp.sh
 ./tcp.sh
 
 # 甬哥xui证书路径
-
-```
-/root/ygkkkca/cert.crt
-```
-
-```
-/root/ygkkkca/private.key
-```
-
-好了
