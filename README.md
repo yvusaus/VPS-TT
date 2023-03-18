@@ -20,7 +20,7 @@ yum install -y curl socat
 ```
 # 删除内部防火墙
 ```
-- apt remove iptables -y
+  apt remove iptables -y
 ```
 # 重启系统
 ```
