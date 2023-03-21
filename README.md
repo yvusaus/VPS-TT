@@ -1,4 +1,9 @@
+
 ## VPS搭建代码
+# 一键更改roo密码
+```
+  wget -N https://gitlab.com/rwkgyg/vpsroot/raw/main/root.sh && bash root.sh
+```
 # 获取root权限
 ```
 sudo -i
