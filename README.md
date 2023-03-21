@@ -48,7 +48,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
 - 证书路径为
 ```
 /root/cert.crt
-- ```
+```
 ```
 /root/private.key
 ```
