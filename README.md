@@ -52,3 +52,9 @@ bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
 ```
 /root/private.key
 ```
+# acme.sh本地IP一键申请证书
+```
+bash <(curl -L -s https://gitlab.com/rwkgyg/acme-script/raw/main/acme.sh)
+```
+- 证书路径为
+```
