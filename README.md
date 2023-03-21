@@ -42,9 +42,9 @@ chmod +x tcp.sh
 bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
 ```
 - 更改证书路径
-- ```
-- ~/.acme.sh/acme.sh --installcert -d 你的域名 --key-file /root/private.key --fullchain-file /root/cert.crt
-- ```
+```
+~/.acme.sh/acme.sh --installcert -d 你的域名 --key-file /root/private.key --fullchain-file /root/cert.crt
+```
 - 证书路径为
 ```
 /root/cert.crt
