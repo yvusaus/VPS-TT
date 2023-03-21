@@ -58,3 +58,8 @@ bash <(curl -L -s https://gitlab.com/rwkgyg/acme-script/raw/main/acme.sh)
 ```
 - 证书路径为
 ```
+/root/ygkkkca/cert.crt
+```
+```
+/root/ygkkkca/cert.crt
+```
