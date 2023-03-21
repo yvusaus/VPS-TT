@@ -37,3 +37,18 @@ wget -N --no-check-certificate "https://raw.githubusercontent.com/chiakge/Linux-
 chmod +x tcp.sh
 ./tcp.sh
 ```
+# 安装xui面板
+```
+bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
+```
+- 更改证书路径
+- ```
+- ~/.acme.sh/acme.sh --installcert -d 你的域名 --key-file /root/private.key --fullchain-file /root/cert.crt
+- ```
+- 证书路径为
+- ```
+- /root/cert.crt
+- ```
+- ```
+- /root/private.key
+- ```
