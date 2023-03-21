@@ -46,9 +46,9 @@ bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
 - ~/.acme.sh/acme.sh --installcert -d 你的域名 --key-file /root/private.key --fullchain-file /root/cert.crt
 - ```
 - 证书路径为
+```
+/root/cert.crt
 - ```
-- /root/cert.crt
-- ```
-- ```
-- /root/private.key
-- ```
+```
+/root/private.key
+```
