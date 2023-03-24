@@ -61,5 +61,5 @@ bash <(curl -L -s https://gitlab.com/rwkgyg/acme-script/raw/main/acme.sh)
 /root/ygkkkca/cert.crt
 ```
 ```
-/root/ygkkkca/cert.crt
+/root/ygkkkca/private.key
 ```
