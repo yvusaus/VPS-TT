@@ -63,3 +63,7 @@ bash <(curl -L -s https://gitlab.com/rwkgyg/acme-script/raw/main/acme.sh)
 ```
 /root/ygkkkca/private.key
 ```
+# 测原生ip
+```
+wget -O nf https://github.com/sjlleo/netflix-verify/releases/download/2.01/nf_2.01_linux_amd64 && chmod +x nf && clear && ./nf
+```
