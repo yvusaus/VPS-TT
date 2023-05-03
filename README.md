@@ -39,7 +39,7 @@ chmod +x tcp.sh
 ```
 - 更改证书路径
 ```
-~/.acme.sh/acme.sh --installcert -d 域名 --key-file /root/private.key --fullchain-file /root/cert.crt
+~/.acme.sh/acme.sh --installcert -d 域 --key-file /root/private.key --fullchain-file /root/cert.crt
 ```
 - 证书路径为
 ```
